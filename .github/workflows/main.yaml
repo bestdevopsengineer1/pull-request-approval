@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Deploy to Dev environment
-        run: echo "Deploying to Development environment..."
+        run: echo "Deploying to Development environment.jjou.."
         # Add your Dev deployment commands here
         # Example: `npm run deploy-dev`
 
